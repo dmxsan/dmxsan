@@ -4,5 +4,5 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dimasmaulana99)
 
 ---
-https://github-readme-stats-sigma-five.vercel.app/api?username=dimasmaulana99&show_icons=true
-https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimasmaulana99&langs_count=3&hide=go,html,css,tex
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dimasmaulana99&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimasmaulana99&langs_count=3&hide=go,html,css,tex)
