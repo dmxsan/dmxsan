@@ -5,4 +5,4 @@
 
 ---
 ![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=dimasmaulana99&theme=react&show_icons=true)
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimasmaulana99&langs_count=3&hide=go,html,css,tex)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dimasmaulana99&theme=react&langs_count=3&hide=go,html,css,tex)
