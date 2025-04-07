@@ -8,7 +8,7 @@ Dimas works remotely from Yogyakarta, Indonesia ![Indonesia](https://raw.githubu
 ```javascript
 const dimas = {
   pronouns: ["he" | "him"],
-  code: [Python, Javascript, HTML, CSS],
+  code: [Python, Javascript, Typescript, HTML, CSS],
   tools: [Jupyter, Earth Engine, QGIS, Docker, React, Node],
   skills: [
     "Data Analysis",
@@ -20,9 +20,8 @@ const dimas = {
   favDataType: "Raster",
   vibe: "Techie with a love for nature 🌍",
 
-  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Javascript"
+  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Javascript",
   currentlyLearning: ["GitHub Actions", "Mapbox", "PyTorch for Remote Sensing", "RNNs", "Transformers"]
-
 }
 ```
 
