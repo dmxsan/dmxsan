@@ -21,6 +21,8 @@ const dimas = {
   vibe: "Techie with a love for nature 🌍",
 
   challenge: "I am doing the #100DaysOfCode challenge focused on Python and Javascript"
+  currentlyLearning: ["GitHub Actions", "Mapbox", "PyTorch for Remote Sensing", "RNNs", "Transformers"]
+
 }
 ```
 
