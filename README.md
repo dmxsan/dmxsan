@@ -1,5 +1,5 @@
 ## Hi there, Dimas here👋
-Dimas works remotely from Yogyakarta, Indonesia 🇮🇩 as a Remote Sensing Analyst at [Revalue](https://revalue.earth/).
+Dimas works remotely from Yogyakarta, Indonesia ![Indonesia](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/id.png "Indonesia") as a Remote Sensing Analyst at [Revalue](https://revalue.earth/).
 
 [![GitHub Badge](https://img.shields.io/github/followers/dimasmaulana99?style=social)](https://github.com/dimasmaulana99?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dimasmaulana99)
