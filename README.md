@@ -7,3 +7,4 @@ Dimas works remotely from Yogyakarta, Indonesia ![Indonesia](https://raw.githubu
 ---
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dimasmaulana99&show_icons=true&include_all_commits=true&theme=react&hide_border=true&rank_icon=percentile&custom_title=Dimas%27+GitHub+Stats" alt="Dimas' GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmaulana99&layout=compact&theme=react&langs_count=5&hide=go,html,css,tex&hide_border=true" /></a> |
 ---
+### <img src="https://giphy.com/embed/k91wth3ArIlCRm4SvN" width="50"> A little more about me...
