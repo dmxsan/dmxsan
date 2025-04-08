@@ -25,6 +25,19 @@ const dimas = {
 }
 ```
 
+[![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=Python&logoColor=ffdd54)](https://www.python.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)](https://www.tensorflow.org/)
+[![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)](https://keras.io/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
+
+[![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=Node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=React&logoColor=black)](https://react.dev/)
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=Docker&logoColor=white)](https://www.docker.com/)
+[![QGIS](https://img.shields.io/badge/QGIS-%23589933.svg?style=for-the-badge&logo=QGIS&logoColor=white)](https://qgis.org/)
+[![Ubuntu](https://img.shields.io/badge/Ubuntu-%23E95420.svg?style=for-the-badge&logo=Ubuntu&logoColor=white&color=blueviolet)](https://ubuntu.com/)
+
 ---
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=dimasmaulana99&show_icons=true&include_all_commits=true&theme=react&hide_border=true&rank_icon=percentile&custom_title=Dimas%27+GitHub+Stats" alt="Dimas' GitHub stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimasmaulana99&layout=compact&theme=react&langs_count=5&hide=go,html,css,tex&hide_border=true" /></a> |
 ---
