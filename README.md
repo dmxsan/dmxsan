@@ -1,4 +1,4 @@
-## Hi there, Dimas here👋
+## Hey! I'm Dimas, and this is where the magic happens🪄🌍
 [![GitHub Badge](https://img.shields.io/github/followers/dimasmaulana99?style=social)](https://github.com/dimasmaulana99?tab=followers)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dimasmaulana99)
 
