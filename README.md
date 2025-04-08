@@ -8,7 +8,7 @@ Dimas works remotely from Yogyakarta, Indonesia ![Indonesia](https://raw.githubu
 ```javascript
 const dimas = {
   pronouns: ["he" | "him"],
-  code: [Python, Javascript, Typescript, HTML, CSS],
+  code: [Python, R, Javascript, Typescript, HTML, CSS],
   tools: [Jupyter, Earth Engine, QGIS, Docker, React, Node],
   skills: [
     "Data Analysis",
