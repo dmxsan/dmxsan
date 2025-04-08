@@ -3,7 +3,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dimasmaulana99)
 
 Dimas works remotely from Yogyakarta, Indonesia ![Indonesia](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/id.png "Indonesia") as a Remote Sensing Analyst at [Revalue](https://revalue.earth/).
-### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNnOGszYnY5amp5MWxueG45MHpieWNjNG5wMGV6MHpma2lwZTZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LSG23wzclSytSfwUA2/giphy.gif" width="50"> A little more about me...
+### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNnOGszYnY5amp5MWxueG45MHpieWNjNG5wMGV6MHpma2lwZTZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LSG23wzclSytSfwUA2/giphy.gif" width="50"> meetTheHuman()
 
 ```javascript
 const dimas = {
@@ -20,8 +20,13 @@ const dimas = {
   favDataType: "Raster",
   vibe: "Techie with a love for nature 🌍",
 
-  challenge: "I am doing the #100DaysOfCode challenge focused on Python and Javascript",
-  currentlyLearning: ["GitHub Actions", "Mapbox", "PyTorch for Remote Sensing", "RNNs", "Transformers"]
+  challenge: "Doing the #100DaysOfCode challenge with Python & JavaScript",
+  currentlyLearning: [
+    "GitHub Actions",
+    "Mapbox",
+    "PyTorch for Remote Sensing",
+    "RNNs",
+    "Transformers"]
 }
 ```
 [![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=Python&logoColor=ffdd54)](https://www.python.org/)
