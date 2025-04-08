@@ -24,7 +24,6 @@ const dimas = {
   currentlyLearning: ["GitHub Actions", "Mapbox", "PyTorch for Remote Sensing", "RNNs", "Transformers"]
 }
 ```
-
 [![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=for-the-badge&logo=Python&logoColor=ffdd54)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
