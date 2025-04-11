@@ -41,7 +41,7 @@ Frequent technologies:
   <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
   <img alt="Keras" src="https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white" />
-  <img alt="Google Earth Engine" src="https://img.shields.io/badge/-Google%20Earth%20Engine-34A853?style=flat-square&logo=googleearthengine&logoColor=white" />
+  <img alt="Google Earth Engine" src="https://img.shields.io/badge/-Google%20Earth%20Engine-4285F4?style=flat-square&logo=googleearthengine&logoColor=white" />
   <img alt="QGIS" src="https://img.shields.io/badge/-QGIS-589933?style=flat-square&logo=qgis&logoColor=white" />
   
   <!-- Web & Deployment -->
