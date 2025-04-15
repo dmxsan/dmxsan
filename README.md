@@ -53,5 +53,5 @@ Frequent technologies:
 
 ---
 <div align="center">
-  | <a href="https://github.com/dmxsan/github-readme-stats"><img align="center" src="https://dmxsan-github-stats.vercel.app/api?username=dmxsan&show_icons=true&include_all_commits=true&theme=react&hide_border=true&rank_icon=percentile&custom_title=Dimas%27+GitHub+Stats&cache_seconds=300" alt="Dimas' GitHub stats" /></a> | <a href="https://github.com/dmxsan/github-readme-stats"><img align="center" src="https://dmxsan-github-stats.vercel.app/api/top-langs/?username=dmxsan&layout=compact&theme=react&hide=go,html,css,tex&hide_border=true&cache_seconds=300)" /></a> |
+  | <a href="https://github.com/dmxsan/github-readme-stats"><img align="center" src="https://dmxsan-github-stats.vercel.app/api?username=dmxsan&show_icons=true&theme=react&hide_border=true&rank_icon=percentile&custom_title=Dimas%27+GitHub+Stats&cache_seconds=300" alt="Dimas' GitHub stats" /></a> | <a href="https://github.com/dmxsan/github-readme-stats"><img align="center" src="https://dmxsan-github-stats.vercel.app/api/top-langs/?username=dmxsan&layout=compact&theme=react&hide=go,html,css,tex&hide_border=true&cache_seconds=300)" /></a> |
 </div>
