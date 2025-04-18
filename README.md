@@ -1,5 +1,6 @@
 ## Hey! I'm Dimas, and this is where the magic happens🪄🌍
 [![GitHub Badge](https://img.shields.io/github/followers/dmxsan?style=social)](https://github.com/dimasmaulana99?tab=followers)
+[![Twitter Badge](https://img.shields.io/twitter/follow/dmxsan_?style=social)](https://twitter.com/dmxsan_)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dimasmaulana99)
 
 Dimas works remotely from Yogyakarta, Indonesia ![Indonesia](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/id.png "Indonesia") as a Remote Sensing Analyst at [Revalue](https://revalue.earth/).
