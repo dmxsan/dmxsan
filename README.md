@@ -27,7 +27,8 @@ const dimas = {
     "Mapping Platforms",
     "PyTorch for Remote Sensing",
     "RNNs",
-    "Transformers"]
+    "Transformers",
+    "Foundation Model"]
 }
 ```
 
