@@ -23,7 +23,6 @@ const dimas = {
 
   challenge: "Doing the #100DaysOfCode challenge with Python & JavaScript",
   currentlyLearning: [
-    "GitHub Actions",
     "Mapping Platforms",
     "PyTorch for Remote Sensing",
     "RNNs",
