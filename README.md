@@ -14,8 +14,7 @@ const dimas = {
   skills: [
     "Data Analysis",
     "ML & DL for Spatial Data",
-    "Geospatial Data Science",
-    "Thematic Mapping"
+    "Geospatial Data Science"
   ],
   favGeospatialData: ["AFOLU", "Road Network"],
   favDataType: "Raster",
