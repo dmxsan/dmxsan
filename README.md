@@ -8,25 +8,28 @@ Dimas works remotely from Yogyakarta, Indonesia ![Indonesia](https://raw.githubu
 
 ```javascript
 const dimas = {
-  pronouns: ["he" | "him"],
-  code: [Python, R, Javascript, Typescript],
-  tools: [Jupyter, Earth Engine, QGIS, Docker, Node],
+  pronouns: "he / him",
+  role: "Senior Remote Sensing Analyst",
+  code: ["Python", "R", "JavaScript", "Go"],
+  tools: ["Jupyter", "Earth Engine", "QGIS", "Docker", "Node.js"],
   skills: [
-    "Data Analysis",
+    "Geospatial Data Science",
     "ML & DL for Spatial Data",
-    "Geospatial Data Science"
+    "Time-series & Satellite Imagery Analysis"
   ],
   favGeospatialData: ["AFOLU", "Road Network"],
   favDataType: "Raster",
   vibe: "Techie with a love for nature 🌍",
-
-  challenge: "Doing the #100DaysOfCode challenge with Python & JavaScript",
+  challenge: "Bridging ML with hardware (IoT) and backend systems",
   currentlyLearning: [
     "PyTorch for Remote Sensing",
-    "RNNs",
+    "RNNs & sequence modeling",
     "Transformers",
-    "Foundation Model"]
-}
+    "Foundation models for Earth observation",
+	"ML with hardware"
+  ]
+};
+
 ```
 
 Frequent technologies:
@@ -47,6 +50,12 @@ Frequent technologies:
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white" />
   <img alt="Nuxt" src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat-square&logo=nuxt&logoColor=white" />
   <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+</p>
+
+---
+Currently leveling up my backend skills on [Boot.dev](https://boot.dev) – an exceptional hands-on platform where I’m building projects in Python, Go and SQL.
+<p align="center">
+  <img src="https://api.boot.dev/v1/users/public/2ff3e91e-4e9b-4545-9b9f-32d59d5b8a0e/thumbnail" >
 </p>
 
 ---
