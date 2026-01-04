@@ -3,31 +3,23 @@
 [![Twitter Badge](https://img.shields.io/twitter/follow/dmxsan_?style=social)](https://twitter.com/dmxsan_)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/dimasmaulana99)
 
-Dimas works remotely from Yogyakarta, Indonesia ![Indonesia](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/id.png "Indonesia") as a Remote Sensing Analyst at [Revalue](https://revalue.earth/).
+Dimas works remotely from Yogyakarta, Indonesia ![Indonesia](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/id.png "Indonesia") as a Senior Remote Sensing Analyst at [Revalue](https://revalue.earth/).
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNnOGszYnY5amp5MWxueG45MHpieWNjNG5wMGV6MHpma2lwZTZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LSG23wzclSytSfwUA2/giphy.gif" width="50"> meetTheHuman()
 
 ```javascript
 const dimas = {
-  pronouns: "he / him",
-  role: "Senior Remote Sensing Analyst",
-  code: ["Python", "R", "JavaScript", "Go"],
-  tools: ["Jupyter", "Earth Engine", "QGIS", "Docker", "Node.js"],
-  skills: [
-    "Geospatial Data Science",
-    "ML & DL for Spatial Data",
-    "Time-series & Satellite Imagery Analysis"
+  role: "Senior Remote Sensing Analyst @ Revalue",
+  focus: ["AFOLU Sector Analysis", "Carbon Projects"],
+  stack: ["Python", "R", "JavaScript", "Go"],
+  tools: ["Earth Engine", "QGIS", "PyTorch", "TensorFlow"],
+  experience: [
+    "Satellite imagery analysis for carbon project development",
+    "Forest change detection",
+    "ML/DL for land cover classification",
+    "Geospatial data pipelines & automation"
   ],
-  favGeospatialData: ["AFOLU", "Road Network"],
-  favDataType: "Raster",
-  vibe: "Techie with a love for nature 🌍",
-  challenge: "Bridging ML with hardware (IoT) and backend systems",
-  currentlyLearning: [
-    "PyTorch for Remote Sensing",
-    "RNNs & sequence modeling",
-    "Transformers",
-    "Foundation models for Earth observation",
-	"ML with hardware"
-  ]
+  currentlyExploring: "Edge computing with Raspberry Pi for field RS",
+  deepening: ["PyTorch", "Transformer architectures for EO"]
 };
 
 ```
