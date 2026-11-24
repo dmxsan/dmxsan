@@ -1,6 +1,4 @@
 ## Dimas Maulana Ichsan `(dmxsan)`
-Remote sensing, GIS, and GeoAI. Working with satellite imagery, land-cover change, and spatial data pipelines.
-
 [![Website](assets/badges/website.svg)](https://dmxsan.dev)
 [![XLab](assets/badges/xlab.svg)](https://lab.dmxsan.dev)
 [![LinkedIn](assets/badges/linkedin.svg)](https://www.linkedin.com/in/dimasmaulanaichsan/)
@@ -8,6 +6,7 @@ Remote sensing, GIS, and GeoAI. Working with satellite imagery, land-cover chang
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-dmxsan-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/dmxsan)
 [![X](https://img.shields.io/badge/X-@dmxsan__-111111?style=flat-square&logo=x)](https://x.com/dmxsan_)
 
+Remote sensing, GIS, and GeoAI. Working with satellite imagery, land-cover change, and spatial data pipelines. 
 > Visit my personal website [dmxsan.dev](https://dmxsan.dev), with smaller experiments and prototypes on [XLab](https://lab.dmxsan.dev).
 
 ### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDNnOGszYnY5amp5MWxueG45MHpieWNjNG5wMGV6MHpma2lwZTZ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/LSG23wzclSytSfwUA2/giphy.gif" width="50"> meetTheHuman()
